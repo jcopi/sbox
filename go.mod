@@ -3,7 +3,7 @@ module github.com/jcopi/sbox
 go 1.26.1
 
 require (
-	github.com/landlock-lsm/go-landlock v0.8.1
+	github.com/landlock-lsm/go-landlock v0.10.1
 	github.com/u-root/u-root v0.16.0
 )
 
